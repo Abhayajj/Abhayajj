@@ -88,8 +88,8 @@ I am a passionate full-stack developer dedicated to building clean, responsive, 
 
 ### 🤝 Connect With Me
 
-* **LinkedIn:** [linkedin.com/in/abhay-gupta](https://www.linkedin.com/in/abhaygupta-dev/) *(Update with your actual LinkedIn username)*
-* **Email:** [techabhaygupta214@gmail.com) *(Update with your actual email address)*
+* **LinkedIn:** [linkedin.com/in/abhay-gupta](https://www.linkedin.com/in/abhaygupta-dev/) 
+* **Email:** [techabhaygupta214@gmail.com) 
 * **Portfolio:** [wonderful-hotel.onrender.com](https://wonderful-hotel.onrender.com)
 
 Let's collaborate on building the next generation of web applications!
