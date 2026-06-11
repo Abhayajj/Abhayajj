@@ -90,6 +90,6 @@ I am a passionate full-stack developer dedicated to building clean, responsive, 
 
 * **LinkedIn:** [linkedin.com/in/abhay-gupta](https://www.linkedin.com/in/abhaygupta-dev/) 
 * **Email:** [techabhaygupta214@gmail.com) 
-* **Portfolio:** [wonderful-hotel.onrender.com](https://wonderful-hotel.onrender.com)
+* **Portfolio:** (https://abhayajj.github.io/abhayguptafolio/)
 
 Let's collaborate on building the next generation of web applications!
